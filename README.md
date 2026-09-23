@@ -16,12 +16,3 @@ Geographic location was a substantially stronger predictor of long-term survival
 * Scikit-learn
 * Statsmodels
 * SciPy
-
-## Skills Demonstrated
-
-* Data cleaning and feature engineering
-* Exploratory data analysis
-* Statistical hypothesis testing
-* Logistic regression
-* Data visualisation
-* Model evaluation and interpretation
