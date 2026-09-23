@@ -1,4 +1,3 @@
-# Data-Science-Project
 # Predicting Commercial Unit Survival in Edinburgh
 
 This data science project investigates whether geographic location or commercial classification is a stronger predictor of long-term commercial unit survival in Edinburgh.
